@@ -1,6 +1,6 @@
 {
   "name": "VII",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "High Quality Youtube Videos Converter",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,8 @@
   ],
   "author": [
     "Arda Gedik <ardagedikk@hotmail.com>",
-    "liberodark <liberodark@gmail.com>"
+    "liberodark <liberodark@gmail.com>",
+    "Eric <eric@xaosia.com>"
   ],
   "license": "MIT",
   "dependencies": {
@@ -36,7 +37,7 @@
     "electron-builder": "^19.56.2"
   },
   "build": {
-    "appId": "com.electron.vii",
+    "appId": "com.xaosia.vii",
     "productName": "VII",
     "files": [
       "!dist",
